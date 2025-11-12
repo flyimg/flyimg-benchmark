@@ -202,6 +202,11 @@ This will generate a PNG file with multiple charts showing:
 - Error rates
 - Cache impact analysis
 
+### Generated image:
+
+![Benchmark Visualization](benchmark_visualization.png)
+
+
 ### Custom Visualization
 
 You can also use the JSON output to create your own visualizations. Here's a simple Python example using matplotlib:
